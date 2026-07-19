@@ -16,7 +16,7 @@ A modern, responsive, and interactive portfolio website showcasing my projects, 
 - **JavaScript** (Vanilla JS for interactive animations and custom logic)
 
 ## Live Preview
-Explore the live website here: [deepika-cs-learn.github.io/Portfolio](https://deepika-cs-learn.github.io/Portfolio/)
+Explore the live website here: [deepika-cs-learn-portfolio.netlify.app](https://deepika-cs-learn-portfolio.netlify.app/)
 
 ---
 Designed & Built with 💜 by Deepika Gummalla.
